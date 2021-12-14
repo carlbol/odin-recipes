@@ -1,0 +1,17 @@
+/*Cascading style sheet of index.html*/
+h1 {
+    font-size: 36px;
+    background-color: aqua;
+    font-family: 'Brush Script MT', Georgia, serif, sans-serif;
+}
+
+li {
+    font-size: 20px;
+    background-color: aquamarine;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
